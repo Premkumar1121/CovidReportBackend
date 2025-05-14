@@ -1,2 +1,1 @@
-"# CovidReportBackend" 
 "# DateTimeAPI" 
